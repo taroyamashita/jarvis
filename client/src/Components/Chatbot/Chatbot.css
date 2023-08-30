@@ -1,0 +1,33 @@
+.chatbot-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .messages {
+    min-height: 400px;
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  
+  .message {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+  }
+  
+  .inputArea {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .input {
+    width: 80%;
+  }
+  
+  .button {
+    width: 18%;
+  }
+  
